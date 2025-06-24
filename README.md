@@ -43,15 +43,16 @@ SECRET_KEY=your_secret_key_here
 
 
 ##local live server
-```bash
+``bash
 cd backend 
- ```bash
+``bash
+
 python src/app.py
-```bash
+
 cd frontend 
-```bash
+
 npm start
-```bash
+
 ## Technologies Used
 
 ### Frontend
