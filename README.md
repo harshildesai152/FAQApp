@@ -42,16 +42,20 @@ MONGO_URI=your_mongodb_url
 SECRET_KEY=your_secret_key_here
 
 
-##local live server
-   ```bash
-   cd backend 
-   python src/app.py
+ Run the Application Locally
+Start Backend Server
 
-   cd frontend 
-   npm start
-   ```bash
+```bash
+cd backend
+python src/app.py
+
+Start Frontend Dev Server
 
 
+cd frontend
+npm start
+
+```bash
 
 2.Technologies Used
 
