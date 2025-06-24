@@ -45,9 +45,11 @@ SECRET_KEY=your_secret_key_here
 ##local live server
 
 cd backend 
+
 python src/app.py
 
 cd frontend 
+
 npm start
 
 ## Technologies Used
