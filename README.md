@@ -37,7 +37,7 @@ npm install
 ##Backend Configuration
 Create a .env file in the backend directory with the following content:
 
-MONGO_URI=mongodb://localhost:27017/faq
+MONGO_URI=your_mongodb_url
 
 SECRET_KEY=your_secret_key_here
 
