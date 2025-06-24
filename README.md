@@ -44,16 +44,18 @@ SECRET_KEY=your_secret_key_here
 
 ##local live server
 
+   ```bash
 cd backend 
-
-
 python src/app.py
 
 cd frontend 
 
 npm start
+   ```bash
 
-## Technologies Used
+
+
+2.Technologies Used
 
 ### Frontend
 - React.js
