@@ -43,7 +43,7 @@ SECRET_KEY=your_secret_key_here
 
 
 ##local live server
-
+   ```bash
    cd backend 
    python src/app.py
 
